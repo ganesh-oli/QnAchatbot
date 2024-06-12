@@ -4,4 +4,4 @@ I have created embeddings by using GoogleGenerativeAIEmbeddings.
 I have used FAISS (Facebook AI Similarity Search) to  create a vector store for similarity search.
 Then, I have used ChatGoogleGenerativeAI as a conversational model .
 load_qa_chain method is used to load the chain.
-The API key used here is Google API Key ,
+The API key used here is Google API Key !
